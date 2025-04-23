@@ -51,12 +51,6 @@ The model was trained on a balanced dataset using PyTorch and Hugging Face `tran
 
 ---
 
-## 🖥️ App Preview
-
-![App Preview](https://huggingface.co/spaces/piyaldey/Mental_Health_Status_Classifier/resolve/main/preview.png)
-
----
-
 ## ⚙️ Installation & Usage
 
 ### 🔧 Requirements
